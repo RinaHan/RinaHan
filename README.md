@@ -1,4 +1,13 @@
-### Hi there 👋
+### Getting to know Rina 👋
+
+- 😀 I’m studying <b>Front-end Development</b> and <b>UX/UI design</b></p>
+- 😉 I’m a <b>2nd year BCIT</b> student in <b>Digital Design and Development</b></p>
+- 🎓 My expected graduation date is <b>May 2021</b></p>
+- 🖥 My strength is <b>React</b> and <b>React Native</b></p>
+- 🥰 I’m volunteering as a <b>tech communication leader</b> in [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver</p> 
+- 🤔 I’m looking for a <b>practicum</b> opportunity in March 2020</p>
+- 📫 How to reach me:<a href=“https://www.linkedin.com/in/rina-han/”> [LinkedIn](https://www.linkedin.com/in/rina-han/)
+
 
 <!--
 **rina4146/rina4146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
