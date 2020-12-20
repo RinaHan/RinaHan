@@ -1,4 +1,4 @@
-## Getting to know Rina 👋
+### Getting to know Rina 👋
 
 - 😀 I’m studying <b>Front-end Development</b> and <b>UX/UI design</b></p>
 - 😉 I’m a <b>2nd year BCIT</b> student in <b>Digital Design and Development</b></p>
