@@ -6,7 +6,6 @@
 - 🎓 My expected graduation date is <b>May 2021</b></p>
 - 🖥 My strength is <b>React</b> and <b>React Native</b></p>
 - 🤓 I’m volunteering as a <b>tech communication leader</b> in [Korean Developer & Designer Meetup](https://www.meetup.com/Vancouver-KDD) in Vancouver</p> 
-- 🤔 I’m looking for a <b>internship</b> opportunity in April 2021</p>
 - 📫 How to reach me:<a href=“https://www.linkedin.com/in/rina-han/”> [LinkedIn](https://www.linkedin.com/in/rina-han/)</p>
 
 
